@@ -13,6 +13,7 @@ Code for Ongoing tasks assessment 2020
 ## Description of files contained
 Solution1.ipynb: Write a Python function called sqrt2 that calculates and prints to the screen the square root of 2 to 100 decimal places. Your code should not depend on any module from the standard library or otherwise.
 
-Solution2.py:
+Solution1.ipynb:
+Solution2.ipynb:
 
 
