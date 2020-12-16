@@ -7,17 +7,18 @@
 # Tasks-Assessment---Machine-Learning-and-Statistics
 Repository for the Tasks assessment within Machine Learning and Statistics module
 
-Code for Ongoing tasks assessment 2020  
-[See here for instructions](https://github.com/BarryClarke/Tasks-Assessment---Machine-Learning-and-Statistics/blob/main/Ongoing%20tasks%20assessment.pdf)
 
-## Description of files contained
-### Solution1.ipynb: 
+## Description of tasks
+### Task 1
 Write a Python function called sqrt2 that calculates and prints to the screen the square root of 2 to 100 decimal places. Your code should not depend on any module from the standard library or otherwise.
 
-### Solution2.ipynb:
+### Task 2:
 Use scipy-stats to verify a result for the chi-squared value on a set of data, and to calculate the associated p value.
 
-### Solution3.ipynb:
+### Task 3:
 Perform a simulation demonstrating that the STDEV.S calculation in Excel is a better estimate than the STDEV.P calculation (also in Excel) for the standard deviation of a population calculation when performed on a sample. 
+
+### Task 4:
+Use KMeans clustering algorithm on the Iris data set, discussing the accuracy and how it could be used to mae predictions.
 
 
