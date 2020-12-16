@@ -25,7 +25,7 @@ Use KMeans clustering algorithm on the Iris data set, discussing the accuracy an
 
 
 ### Running the notebook
-The main body of work in this assignment is performed in a jupyter notebook. This includes description of solutions to all 4 tasks, with research references at the end of each task. If viewing through Github, the ipynb file is best viewed through nbviewer, as certain text formatting will not load correctly when viewing through GitHub. Please follow the below link to view the notebook in nbviewer  [Create a Data Set Project jupyter notebook]() 
+The main body of work in this assignment is performed in a jupyter notebook. This includes description of solutions to all 4 tasks, with research references at the end of each task. If viewing through Github, the ipynb file is best viewed through nbviewer, as certain text formatting will not load correctly when viewing through GitHub. Please follow the below link to view the notebook in nbviewer  [Create a Data Set Project jupyter notebook](https://nbviewer.jupyter.org/github/BarryClarke/Tasks-Assessment---Machine-Learning-and-Statistics/blob/main/Tasks.ipynb) 
 
 To view the source code in jupyter notebook, please follow the below instructions:
 1. In this repoistory (ie Tasks-Assessment---Machine-Learning-and-Statistics) click on the clone or download button and copy the URL
